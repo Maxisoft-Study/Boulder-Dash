@@ -1,0 +1,9 @@
+<boulderdash.config.Config id="1">
+  <logWarn>true</logWarn>
+  <logDebug>false</logDebug>
+  <USEASSERT>false</USEASSERT>
+  <mapeditor__mode>false</mapeditor__mode>
+  <use__thread>true</use__thread>
+  <useAA>false</useAA>
+  <clickToMove>false</clickToMove>
+</boulderdash.config.Config>

@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Boulder-dash</title>
+    <link rel="stylesheet" href="Readme_fichiers/styles.css">
+    <link rel="stylesheet" href="Readme_fichiers/pygment_trac.css">
+    <script src="Readme_fichiers/jquery.js"></script>
+    <script src="Readme_fichiers/main.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+
+      <header>
+        <h1>Boulder-dash</h1>
+        <p></p>
+      </header>
+
+      <div id="banner">
+
+        <div class="downloads">
+          <span></span>
+          <ul>
+          </ul>
+        </div>
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul><li class="tag-h1"><a href="#boulderdash">BoulderDash</a></li><li class="tag-h2"><a href="#mode-graphique-">Mode Graphique </a></li><li class="tag-h2"><a href="#mode-mapeditor-avance">Mode MapEditor (avancée)</a></li><li class="tag-h2"><a href="#mode-console-avance">Mode Console (avancée)</a></li><li class="tag-h2 active"><a href="#notes">Notes</a></li></ul>
+      </nav>
+      <section style="height: auto;">
+        <h1 id="boulderdash">BoulderDash</h1>
+
+<h3>Généralité</h3>
+
+<p>Le but de ce Jeu est de se rendre rapidement à la fin de chaque 
+niveau (symbolisé par une case violette) tout en rammassant un maximum 
+de diamants .<br>
+Mais attention aux chutes de pierres et de diamants !<br>
+De plus, sur certain niveau, un Ennemi peut vous compliquer la tache.<br>
+En effet, cet ennemi adore les diamants et les manges ! Lorsqu'il n'y as
+ plus de diamant, il s'énerve et essaye de vous mordre :)<br><br>
+Un minimum de 150 points est requis pour passer au niveau supérieur.
+<br>
+Vous avez 300 secondes maximum pour vous rendre à la fin de chaque niveau. <br>
+Plus vous êtes rapide, plus vous gagnerais de points bonus.<br></p>
+
+<p><br><br></p>
+
+<p><strong>Java 1.6 requis.</strong></p>
+
+<p><br><br><br></p>
+
+<h2 id="mode-graphique-">Mode Graphique </h2>
+
+<h4>Pour lancer :</h4>
+
+<ul>
+<li>
+<p>Windows :</p>
+
+<ul>
+<li>Double click sur <strong>Boulder_Dash-1.5.jar</strong>
+<br><br>
+</li>
+</ul>
+</li>
+<li>
+<p>Linux :</p>
+
+<ul>
+<li>lancer un <em>terminal</em>
+</li>
+<li>se placer dans le dossier <strong>target</strong>
+</li>
+<li>taper <code>java -jar Boulder_Dash-1.5.jar</code>
+</li>
+</ul>
+</li>
+</ul><p><br><br></p>
+
+<h4>Touches :</h4>
+
+<ol>
+<li>Deplacement : <br><table>
+<tbody><tr>
+<td>haut</td> <td>gauche</td> <td>bas</td> <td>droite</td> </tr>
+<tr>
+<td>z</td> <td>q</td> <td>s</td> <td>d</td> </tr>
+</tbody></table>
+<br>
+</li>
+<li>Suicide :
+<table><tbody><tr>
+<td>suppr.</td> <td>del.</td>
+</tr></tbody></table>
+<br>
+</li>
+<li>Pause :
+<table><tbody><tr><td>escap</td></tr></tbody></table>
+<br>
+</li>
+<li>Imprime ecran :
+<table><tbody><tr><td>F7</td></tr></tbody></table>
+</li>
+</ol><p><br><br></p>
+
+<h4>Note :</h4>
+
+<ol>
+<li>On peut se deplacer grace a la souris (on laisse le bouton pressé)</li>
+</ol><h2 id="mode-mapeditor-avance">Mode MapEditor (avancée)</h2>
+
+<h4>Pour lancer :</h4>
+
+<ul>
+<li>
+<p>Windows :</p>
+
+<ul>
+<li>Double click sur <strong>MapEditor-1.5.jar</strong>
+<br><br>
+</li>
+</ul>
+</li>
+<li>
+<p>Linux :</p>
+
+<ul>
+<li>lancer un <em>terminal</em>
+</li>
+<li>se placer dans le dossier <strong>target</strong>
+</li>
+<li>taper <code>java -jar MapEditor-1.5.jar</code>
+</li>
+</ul>
+</li>
+</ul><p><br><br></p>
+
+<h4>Touches :</h4>
+
+<ol>
+<li>Deplacement : <br><table>
+<tbody><tr>
+<td>haut</td> <td>gauche</td> <td>bas</td> <td>droite</td> </tr>
+<tr>
+<td>z</td> <td>q</td> <td>s</td> <td>d</td> </tr>
+</tbody></table>
+<br>
+</li>
+<li>Sauvegarder la map :
+<table><tbody><tr><td>'ctrl'+ s</td></tr></tbody></table>
+<br>
+</li>
+<li>Charger la map :
+<table><tbody><tr><td>'ctrl'+ o</td></tr></tbody></table>
+<br>
+</li>
+<li>Recharger la map :
+<table><tbody><tr><td>escap</td></tr></tbody></table>
+<br>
+</li>
+<li>Imprime ecran :
+<table><tbody><tr><td>F7</td></tr></tbody></table>
+</li>
+<li>Pierre :
+<table><tbody><tr><td>p</td></tr></tbody></table>
+<br>
+</li>
+<li>Terre :
+<table><tbody><tr><td>t</td></tr></tbody></table>
+<br>
+</li>
+<li>Arc en ciel :
+<table><tbody><tr><td>r</td></tr></tbody></table>
+<br>
+</li>
+<li>Diamant :
+<table><tbody><tr><td>espace</td></tr></tbody></table>
+<br>
+</li>
+<li>Mur :
+<table><tbody><tr><td>m</td></tr></tbody></table>
+<br>
+</li>
+<li>Entrée :
+<table><tbody><tr><td>home</td></tr></tbody></table>
+<br>
+</li>
+<li>Sortie :
+<table><tbody><tr><td>Fin</td></tr></tbody></table>
+<br>
+</li>
+<li>Aleatoire :
+<table><tbody><tr><td>PageBas</td></tr></tbody></table>
+<br>
+</li>
+<li>Supprimer la case :
+<table><tbody><tr>
+<td>suppr.</td> <td>del.</td>
+</tr></tbody></table>
+<br>
+</li>
+<li>Nyan-Cat :
+<table><tbody><tr><td>n</td></tr></tbody></table>
+<br>
+</li>
+</ol><p><br><br></p>
+
+<h4>Note :</h4>
+
+<ol>
+<li>On peut se deplacer grace a la souris (avec click)
+<br>
+</li>
+</ol><h2 id="mode-console-avance">Mode Console (avancée)</h2>
+
+<h4>Pour lancer :</h4>
+
+<ul>
+<li>lancer un terminal<br>
+</li>
+<li>se placer dans le dossier target</li>
+<li>taper <code>java -cp Boulder_Dash-1.5.jar boulderdash.Console</code>
+</li>
+</ul><p><br><br></p>
+
+<h4>Touches :</h4>
+
+<ol>
+<li>
+<p>Deplacement : <br></p>
+
+<table><tbody><tr>
+<td>z</td> <td>q</td> <td>s</td> <td>d</td> </tr></tbody></table>
+<p><br></p>
+</li>
+</ol><h2 id="notes">Notes</h2>
+
+<ol>
+<li>Pour remetre les scores a zero ou remettre les map originales, il suffit d'extraire le zip <strong>original.zip</strong> </li>
+<li>On peut mettre de l' <em>antialiasing</em> en éditant le fichier <strong>config.xml</strong> : changer la ligne <code>&lt;useAA&gt;false&lt;/useAA&gt;</code> en <code>&lt;useAA&gt;true&lt;/useAA&gt;</code>
+</li>
+</ol>
+      </section>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  
+</body></html>
