@@ -1,0 +1,580 @@
+<boulderdash.utils.MapSaver id="1">
+  <content id="2">
+    <Case-array id="3">
+      <Mur id="4">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Mur>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="5">
+      <Mur reference="4"/>
+      <Vide id="6">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Vide>
+      <Spawn id="7">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Spawn>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Terre id="8">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="9">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Terre id="10">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Diamant id="11">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="12">
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Terre id="13">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="14">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Terre id="15">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="16">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="17">
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <boulderdash.cases.RainBow id="18">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </boulderdash.cases.RainBow>
+      <Diamant id="19">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Terre id="20">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="21">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="22">
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="23">
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Diamant id="24">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Terre id="25">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="26">
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Terre id="27">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Terre id="28">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="29">
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Terre id="30">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Terre id="31">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="32">
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="33">
+      <Mur reference="4"/>
+      <Terre id="34">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="35">
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="36">
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Terre id="37">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="38">
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="39">
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Diamant id="40">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="41">
+      <Mur reference="4"/>
+      <Diamant id="42">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="43">
+      <Mur reference="4"/>
+      <Diamant id="44">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Terre id="45">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Terre id="46">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="47">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Diamant id="48">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="49">
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Terre id="50">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Terre id="51">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="52">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="53">
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Pierre id="54">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Pierre>
+      <Pierre id="55">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Pierre>
+      <Mur reference="4"/>
+      <Diamant id="56">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Diamant id="57">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Terre id="58">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Exit id="59">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Exit>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="60">
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Diamant id="61">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Terre id="62">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Vide reference="6"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="63">
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+    </Case-array>
+  </content>
+  <enemies id="64">
+    <boulderdash.enemy.NyanCat id="65">
+      <animProgress>100</animProgress>
+      <freez>false</freez>
+      <pos id="66">
+        <x>10</x>
+        <y>3</y>
+      </pos>
+      <lastDeplacementStatus>true</lastDeplacementStatus>
+      <tick>0</tick>
+      <speed>1</speed>
+    </boulderdash.enemy.NyanCat>
+  </enemies>
+</boulderdash.utils.MapSaver>

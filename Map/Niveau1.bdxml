@@ -1,0 +1,400 @@
+<boulderdash.utils.MapSaver id="1">
+  <content id="2">
+    <Case-array id="3">
+      <Mur id="4">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Mur>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="5">
+      <Mur reference="4"/>
+      <Spawn id="6">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Spawn>
+      <Terre id="7">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="8">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Diamant id="9">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Mur reference="4"/>
+      <Pierre id="10">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Pierre>
+      <Terre id="11">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="12">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="13">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Pierre id="14">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Pierre>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="15">
+      <Mur reference="4"/>
+      <Terre id="16">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="17">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="18">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="19">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="20">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="21">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="22">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Terre id="23">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="24">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="25">
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Terre id="26">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="27">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="28">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Terre id="29">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Diamant id="30">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="31">
+      <Mur reference="4"/>
+      <Pierre id="32">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Pierre>
+      <Terre id="33">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="34">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="35">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="36">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Terre id="37">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="38">
+      <Mur reference="4"/>
+      <Terre id="39">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="40">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="41">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Terre id="42">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Terre id="43">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Vide id="44">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Vide>
+      <Terre id="45">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="46">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="47">
+      <Mur reference="4"/>
+      <Diamant id="48">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Terre id="49">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Terre id="50">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Terre id="51">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="52">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="53">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="54">
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Terre id="55">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="56">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Pierre id="57">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Pierre>
+      <Vide reference="44"/>
+      <Terre id="58">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="59">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="60">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Pierre id="61">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Pierre>
+      <Terre id="62">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="63">
+      <Mur reference="4"/>
+      <Terre id="64">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="65">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Terre id="66">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="67">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="68">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="69">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="70">
+      <Mur reference="4"/>
+      <Diamant id="71">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Terre id="72">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="73">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+      <Terre id="74">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="75">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Pierre id="76">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Pierre>
+      <Terre id="77">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="78">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="79">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Mur reference="4"/>
+    </Case-array>
+    <Case-array id="80">
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Terre id="81">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Diamant id="82">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Mur reference="4"/>
+      <Diamant id="83">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Diamant>
+      <Terre id="84">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="85">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Terre id="86">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Pierre id="87">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Pierre>
+      <Terre id="88">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Terre>
+      <Exit id="89">
+        <animProgress>100</animProgress>
+        <falling>false</falling>
+      </Exit>
+    </Case-array>
+    <Case-array id="90">
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+      <Mur reference="4"/>
+    </Case-array>
+  </content>
+</boulderdash.utils.MapSaver>

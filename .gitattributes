@@ -1,0 +1,74 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Custom for Visual Studio
+*.cs     diff=csharp
+*.sln    merge=union
+*.csproj merge=union
+*.vbproj merge=union
+*.fsproj merge=union
+*.dbproj merge=union
+
+# Standard to msysgit
+*.doc	 diff=astextplain
+*.DOC	 diff=astextplain
+*.docx diff=astextplain
+*.DOCX diff=astextplain
+*.dot  diff=astextplain
+*.DOT  diff=astextplain
+*.pdf  diff=astextplain
+*.PDF	 diff=astextplain
+*.rtf	 diff=astextplain
+*.RTF	 diff=astextplain
+
+
+# These files are binary and should be left untouched
+# (binary is a macro for -text -diff)
+*.jar binary
+*.so binary
+*.dll binary
+*.pdf binary
+*.png binary
+*.gif binary
+*.jpg binary
+*.db binary
+*.jar binary
+*.ico binary
+*.gitkeep binary
+*.pyc binary
+
+# Explicitly declare text files we want to always be normalized and converted 
+# to native line endings on checkout.
+*.php text
+*.txt text
+*.ini text
+*.dist text
+*.twig text
+*.html text
+*.htm text
+*.json text
+*.log text
+*.yml text
+*.rb text
+*.csv text
+*.xml text
+*.ci text
+*.js text
+*.css text
+*.cache text
+*.meta text
+*.phar text
+*.gitignore text
+*.lock text
+*.md text
+*.markdown text
+*.htaccess text
+*.sh text
+*.pl text
+*.cgi text
+*.py text
+*.java text
+*.xml text
+*.txt text
+*.ml text
+*.mli text

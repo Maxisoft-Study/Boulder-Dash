@@ -1,0 +1,6 @@
+/target
+.DS_Store
+/Boulder_Dash.sublime-workspace
+/out.xml
+*._trace
+/screenshot.png
