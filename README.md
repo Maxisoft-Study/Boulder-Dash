@@ -1,5 +1,7 @@
 BoulderDash
 ==============
+![ingame](https://lh4.googleusercontent.com/-aKxI3QxAFYQ/Um6p3LbgCgI/AAAAAAAAANA/awYaguZLWO4/s540-no/BoulderDash2.png)
+
 
 ### Généralité ###
 Le but de ce Jeu est de se rendre rapidement à la fin de chaque niveau (symbolisé par une case violette) tout en rammassant un maximum de diamants .<br/>
